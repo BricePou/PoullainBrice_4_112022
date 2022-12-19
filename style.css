@@ -703,6 +703,9 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.social a {
+    display: hidden;
+}
 
 h2 {
     font-size: 22px;
