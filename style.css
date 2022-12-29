@@ -832,6 +832,12 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.text-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
