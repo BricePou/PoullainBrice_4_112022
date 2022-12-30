@@ -401,6 +401,11 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+    .margin-nav{
+        right: 170px;
+        top: 40%;
+        list-style-type: none;
+    }
 }
 
 .nav > li > .dropdown a {
