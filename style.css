@@ -837,6 +837,9 @@ h4 {
     align-items: center;
     justify-content: center;
 }
+p{
+    font-size: 1em;
+}
 
 @media (max-width: 1024px) {
     .bloc {
@@ -1038,6 +1041,17 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .img-resp{
+        margin: auto;
+    }
+    .img-width{
+        width: 100%;
+        height: auto;
+    }
+    .social{
+        display: flex;
+        justify-content: space-between;
     }
 }
 
